@@ -28,6 +28,6 @@
         <?php endif ?>
     </head>
     <body>
-        Welcome to DaysIDE
+        Welcome to DaysIDE test
     </body>
 </html>
